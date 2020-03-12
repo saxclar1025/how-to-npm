@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "This is a test repo for the how-to-npm tutorial",
   "dependencies": {
-    "@linclark/pkg": "^1.0.2"
+    "@linclark/pkg": "^1.0.3"
   },
   "devDependencies": {},
   "repository": {
